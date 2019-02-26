@@ -1,2 +1,2 @@
-# rsschool-2019Q1-html-css
-rsschool-2019Q1-html-css
+# Pleskatsevich Zoya
+HTML CSS Basics: https://www.codecademy.com/users/zoya1833533318/achievements
